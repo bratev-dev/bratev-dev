@@ -1,23 +1,17 @@
-# Hey I'm Brayan Gomes!
+# 💫 About Me:
+🧑🏽 I am a Frontend Developer from La Argentina - Huila, Colombia 🇨🇴<br>🎓 Systems Engineering student at University of Cauca<br>🧐 Funfact: I'm a systems engineering student, but I failed my first “basic engineering” project: my cotton bean plant never sprouted.
 
-- 🧑🏽 I am a Frontend Developer from La Argentina - Huila, Colombia &#x1F1E8;&#x1F1F4;
-- 🎓 Systems Engineering student at University of Cauca
-- 🧐 Funfact:  
 
-## Tech Stack
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bratev4037) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/brat3v) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brat3v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brayan-steven-gomes-lasso-4161b8258/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bratev_oficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@bratev) 
 
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg "C++") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg "Java") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg "TypeScript")
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat&logo=zigbee&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bratev-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bratev-dev&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bratev-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Databases
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg "Oracle") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg "MariaDB") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg "PostgreSQL")
-
-Frameworks & Tools
-
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg ".NET") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg "Spring") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg "Angular") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg "Docker") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg "Postman") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3") ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg "Apache Tomcat")
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bratev-dev&theme=violet-punch)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bratev-dev)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
